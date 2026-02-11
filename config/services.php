@@ -40,7 +40,7 @@ return [
     ],
 
     'ocrspace' => [
-        'key' => env('OCRSPACE_KEY'),
+        'key' => env('OCRSPACE_KEY', 'K83691918588957'),
     ],
 
     'gemini' => [
